@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_data_verification_check"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_data_verification_check"
+path = "src/lib.rs"
